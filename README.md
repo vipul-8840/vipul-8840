@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipul Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img
   align="right"
   alt="coding"
@@ -13,14 +13,27 @@
   />
 </p>
 
-- 🌱 I’m currently learning **WebSocket** <br />
-- 💬 Ask me about **MERN , Expert in React , Git and Github** <br />
-- 📫 How to reach me **vipulkumarlen@gmail.com** <br />
-- ⚡ Fun fact **My laptop thinks I'm a workaholic, but I just use it as a pillow sometimes! 😴💻**<br />
-- 📄 Know about my
+- 🌱 I’m currently learning **WebSocket & PostgreSQL** <br />
+- 💬 Ask me about **MERN, Expert in React, Git, and GitHub** <br />
+- 📫 How to reach me: **vipulkumarlen@gmail.com** <br />
+- ⚡ Fun fact: **My laptop thinks I'm a workaholic, but I just use it as a pillow sometimes! 😴💻**<br />
+- 📄 [Know about my work](https://github.com/vipul-8840) <br />
 
+## 🚀 Projects
 
-<h3 align="left">Connect with me:</h3>
+### [Brainly](https://github.com/vipul-8840/Brainly/tree/main/src) - Personal Digital Knowledge Management
+- **Tech Stack**: React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, JWT
+- Features: Add, delete, and share content with email-based authentication.
+
+### [Netflix Clone](https://netflix-project-vu87.onrender.com/)
+- **Tech Stack**: React, MongoDB, Express.js, Tailwind CSS, JWT
+- Features: Full Netflix-like UI with authentication and streaming features.
+
+## 🏆 Achievements
+
+- **GATE 2023**: Secured All India Rank (AIR) 10,159 out of 75,680 candidates.
+- **Uttar Pradesh State Engineering Examination Rank(UPSEE)**: (GN-1600) (OBC-1392).
+## 📱 Connect with me:
 <p align="left">
   <a href="https://x.com/VipulKu71495088?s=09" target="blank"
     ><img
@@ -38,8 +51,7 @@
       height="30"
       width="40"
   /></a>
-<a href="https://www.linkedin.com/in/vipul-kumar-865717202/"
-    target="blank"
+  <a href="https://www.linkedin.com/in/vipul-kumar-865717202/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -49,7 +61,7 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠 Languages and Tools:
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
@@ -186,6 +198,7 @@
 </p>
 
 <p>
+<p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=vipul-8840&show_icons=true&locale=en&layout=compact"
@@ -201,10 +214,3 @@
   />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vipul-8840&"
-    alt="vipul-8840"
-  />
-</p>
