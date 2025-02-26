@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vipul Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Competitive Programmer and MERN stack developer from Indi</h3>
 <img
   align="right"
   alt="coding"
