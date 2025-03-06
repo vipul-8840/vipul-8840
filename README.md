@@ -14,7 +14,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **WebSocket & PostgreSQL** <br />
+- 🌱 I’m currently learning **PostgreSQL && Next.Js** <br />
 - 💬 Ask me about **MERN, Expert in React, Git, and GitHub** <br />
 - 📫 How to reach me: **vipulkumarlen@gmail.com** <br />
 - ⚡ Fun fact: **My laptop thinks I'm a workaholic, but I just use it as a pillow sometimes! 😴💻**<br />
