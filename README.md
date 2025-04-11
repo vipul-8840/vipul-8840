@@ -170,6 +170,7 @@
       alt="nextjs"
       width="40"
       height="40"
+      background-color="bg-gray-200"
     />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
