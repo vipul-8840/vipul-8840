@@ -218,7 +218,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vipul-8840&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vipul-8840"
     alt="vipul-8840"
   />
 </p>
